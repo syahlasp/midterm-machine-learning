@@ -25,3 +25,4 @@ file_size_mb = file_size_bytes / (1024 ** 2)
 
 print(f"Ukuran file: {file_size_bytes:,} bytes")
 print(f"Ukuran file: {file_size_mb:.2f} MB")  #ukuran 422.88 MB, deadline 2 minggu. ngerjain mepet pasti ga kelar :))))
+
