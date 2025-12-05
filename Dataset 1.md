@@ -1,5 +1,5 @@
 # Dataset-1
-Rename
+# Rename file
 
 # download semua file dari gdrive dibawah lalu buat folder (ex. midterm_folder)
 !pip install -q gdown
